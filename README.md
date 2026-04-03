@@ -68,4 +68,4 @@ Les informations ont été recueillies auprès d'**Ilyes**, Community Manager de
 ---
 
 ## 🏁 Conclusion
-Ce rapport S104 présente la structure complète de la base de données nécessaire au bon fonctionnement du restaurant **KRUNCHY**, couvrant le cycle de vente, la gestion logistique et le suivi du personnel.
+Ce rapport présente la structure complète de la base de données nécessaire au bon fonctionnement du restaurant **KRUNCHY**, couvrant le cycle de vente, la gestion logistique et le suivi du personnel.
