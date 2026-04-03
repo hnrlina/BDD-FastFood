@@ -1,4 +1,4 @@
-# 🍔 Rapport Individuel S104 : Système d'Information KRUNCHY
+# 🍔 Base de données KRUNCHY
 # Auteurs : Lina Honoré et Ruben Matias
 
 ## 📋 Sommaire
