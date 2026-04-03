@@ -62,14 +62,8 @@ Les informations ont été recueillies auprès d'**Ilyes**, Community Manager de
 
 > ![MCD Krunchy](./mcd.PNG)
 
-### Schéma Relationnel (MLD)
-* **CLIENT** (**idClient**, nomClient, prenomClient, adresseClient)
-* **COMMANDE** (**idCommande**, dateCommande, heureCommande, modeCommande, #idClient)
-* **PRODUIT** (**idProduit**, nomProduit, prixProduit)
-* **FOURNISSEUR** (**idFournisseur**, nomFournisseur, denreeFournisseur, prixFournisseur, telFournisseur)
-* **PERSONNEL** (**idPersonnel**, nomPersonnel, prenomPersonnel, emailPersonnel, telPersonnel, #idPoste)
-* **POSTE** (**idPoste**, nomPoste, salairePoste)
-* **STOCK** (**idStock**, denreeStock, quantiteStock, peremptionStock)
+### Schéma Relationnel (SR)
+> ![SR Krunchy](./sr.PNG)
 
 ---
 
