@@ -61,7 +61,7 @@ Les informations ont été recueillies auprès d'**Ilyes**, Community Manager de
 *Remarque : Pas de contraintes non modélisables.*
 
 > 🖼️ *[Ici, insère ton image du MCD]*
-> ![MCD Krunchy](./mcd.png)
+> ![MCD Krunchy](./mcd.PNG)
 
 ### Schéma Relationnel (MLD)
 * **CLIENT** (**idClient**, nomClient, prenomClient, adresseClient)
