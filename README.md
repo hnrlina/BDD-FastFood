@@ -60,7 +60,6 @@ Les informations ont été recueillies auprès d'**Ilyes**, Community Manager de
 ### Modèle Conceptuel de Données (MCD)
 *Remarque : Pas de contraintes non modélisables.*
 
-> 🖼️ *[Ici, insère ton image du MCD]*
 > ![MCD Krunchy](./mcd.PNG)
 
 ### Schéma Relationnel (MLD)
