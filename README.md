@@ -2,11 +2,11 @@
 # Auteurs : Lina Honoré et Ruben Matias
 
 ## 📋 Sommaire
-1. [Présentation de l'entreprise](#présentation-de-lentreprise)
-2. [Synthèse des recherches](#synthèse-des-recherches)
-3. [Modèle Conceptuel de Données (MCD)](#modèle-conceptuel-de-données)
-4. [Schéma Relationnel](#schéma-relationnel)
-5. [Dictionnaire de données](#dictionnaire-de-données)
+1. Présentation de l'entreprise
+2. Synthèse des recherches
+3. Modèle Conceptuel de Données (MCD)
+4. Schéma Relationnel
+5. Dictionnaire de données
 
 ---
 
@@ -61,7 +61,7 @@ Les informations ont été recueillies auprès d'**Ilyes**, Community Manager de
 *Remarque : Pas de contraintes non modélisables.*
 
 > 🖼️ *[Ici, insère ton image du MCD]*
-> `![MCD Krunchy](./images/votre_image_mcd.png)`
+> ![MCD Krunchy](./mcd.png)
 
 ### Schéma Relationnel (MLD)
 * **CLIENT** (**idClient**, nomClient, prenomClient, adresseClient)
